@@ -1,0 +1,1 @@
+a, b = input().split(), input().split(); print(sum(el in b for el in a))
